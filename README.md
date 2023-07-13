@@ -15,3 +15,6 @@ For example, the link to the Aapoph Serpentfolk is: https://2e.aonprd.com/Monste
 My script runs through the IDs from 0 to 2000, as there are presently less than 2000 entries. As more entries get added, the end index in get_tokens() should be correspondingly updated.
 
 There are sometimes anomalies, especially towards the higher end of 2000. Some indices are skipped. It's possible that there exist anomalous indices beyond 2000, but it's rare, and for the purposes of dungeon master-ing, such anomalies can easily be found manually. Still, it's safe to run at higher indices if you want to cover all your bases. It will just take longer.
+
+## Legal Use
+pf2e_searcher uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. pf2e_searcher is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](paizo.com).
